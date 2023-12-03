@@ -1,0 +1,37 @@
+body, html
+{
+	width: 99%;
+	height: 99%;
+	overflow: hidden;
+	font-size: 20pt;
+	font-family: helvetica, arial;
+	background: #f9f9f9;
+	color: #111;
+	text-align: center;
+}
+
+.scrollable {
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.button
+{
+	border: 0;
+	border-radius: 10px;
+	background: #6477EB;
+	color: #fff;
+	padding: 15px 25px;
+	width: 40%;
+	font-size: 15pt;
+	display: block;
+	margin: 10px auto;
+	cursor: pointer;
+}
+
+img {
+	width: auto;
+  display: block;
+	text-align: center;
+	margin: 0 auto;
+}
